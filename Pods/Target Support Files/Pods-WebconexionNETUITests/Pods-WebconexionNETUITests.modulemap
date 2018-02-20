@@ -1,0 +1,6 @@
+framework module Pods_WebconexionNETUITests {
+  umbrella header "Pods-WebconexionNETUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

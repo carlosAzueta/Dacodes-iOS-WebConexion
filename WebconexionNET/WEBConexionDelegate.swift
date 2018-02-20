@@ -8,6 +8,7 @@
 
 import UIKit
 
-class WEBConexionDelegate: NSObject {
-
+protocol WEBConexionDelegate {
+    
+    func didSuccess(data:Any?,sender:Any?)
 }
